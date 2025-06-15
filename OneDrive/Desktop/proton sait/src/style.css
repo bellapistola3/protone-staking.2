@@ -1,0 +1,1 @@
+body { background: black; color: lime; font-family: 'Orbitron', sans-serif; padding: 1rem; } .btn { padding: 0.5rem 1rem; background: lime; color: black; border: none; border-radius: 5px; margin: 0.5rem 0; cursor: pointer; } .btn:hover { opacity: 0.8; } .app { max-width: 900px; margin: auto; text-align: center; }
